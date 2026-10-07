@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SafeParentControl.App/SafeParentControl.App.csproj" />
+  <Project Path="SafeParentControl.Graph/SafeParentControl.Graph.csproj" />
+  <Project Path="SafeParentControl.Methods/SafeParentControl.Methods.csproj" />
+  <Project Path="SafeParentControl.Queries/SafeParentControl.Queries.csproj" />
+</Solution>

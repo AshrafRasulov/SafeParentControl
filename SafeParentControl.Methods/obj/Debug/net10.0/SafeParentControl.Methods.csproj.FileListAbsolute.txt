@@ -1,0 +1,11 @@
+C:\Users\Dragle\Desktop\4KVideoDownloaderPlus\SECURITY\SafeParentControl\SafeParentControl.Methods\bin\Debug\net10.0\SafeParentControl.Methods.deps.json
+C:\Users\Dragle\Desktop\4KVideoDownloaderPlus\SECURITY\SafeParentControl\SafeParentControl.Methods\bin\Debug\net10.0\SafeParentControl.Methods.dll
+C:\Users\Dragle\Desktop\4KVideoDownloaderPlus\SECURITY\SafeParentControl\SafeParentControl.Methods\bin\Debug\net10.0\SafeParentControl.Methods.pdb
+C:\Users\Dragle\Desktop\4KVideoDownloaderPlus\SECURITY\SafeParentControl\SafeParentControl.Methods\obj\Debug\net10.0\SafeParentControl.Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragle\Desktop\4KVideoDownloaderPlus\SECURITY\SafeParentControl\SafeParentControl.Methods\obj\Debug\net10.0\SafeParentControl.Methods.AssemblyInfoInputs.cache
+C:\Users\Dragle\Desktop\4KVideoDownloaderPlus\SECURITY\SafeParentControl\SafeParentControl.Methods\obj\Debug\net10.0\SafeParentControl.Methods.AssemblyInfo.cs
+C:\Users\Dragle\Desktop\4KVideoDownloaderPlus\SECURITY\SafeParentControl\SafeParentControl.Methods\obj\Debug\net10.0\SafeParentControl.Methods.csproj.CoreCompileInputs.cache
+C:\Users\Dragle\Desktop\4KVideoDownloaderPlus\SECURITY\SafeParentControl\SafeParentControl.Methods\obj\Debug\net10.0\SafeParentControl.Methods.dll
+C:\Users\Dragle\Desktop\4KVideoDownloaderPlus\SECURITY\SafeParentControl\SafeParentControl.Methods\obj\Debug\net10.0\refint\SafeParentControl.Methods.dll
+C:\Users\Dragle\Desktop\4KVideoDownloaderPlus\SECURITY\SafeParentControl\SafeParentControl.Methods\obj\Debug\net10.0\SafeParentControl.Methods.pdb
+C:\Users\Dragle\Desktop\4KVideoDownloaderPlus\SECURITY\SafeParentControl\SafeParentControl.Methods\obj\Debug\net10.0\ref\SafeParentControl.Methods.dll
